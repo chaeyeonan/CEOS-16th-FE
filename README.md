@@ -35,7 +35,7 @@
 
 | 💻 배포 | 🔗 레포지토리 | 🛠 코드리뷰 |
 |-------|-------|-------|
-| [배포 링크](https://vanilla-todo-16th-chaeyeon.vercel.app) | [Repository](https://github.com/chaeyeonan/vanilla-todo-16th.git) | [code reivew](https://github.com/CEOS-Developers/vanilla-todo-16th/pull/6) |
+| [배포 링크](https://react-messanger-16th-chaeyeon.vercel.app) | [Repository](https://github.com/chaeyeonan/react-messanger-16th.git) | [code reivew](https://github.com/CEOS-Developers/react-messenger-16th/pull/18) |
 
 ### 5주차 Next.js & Agile (협업 스터디)
 
